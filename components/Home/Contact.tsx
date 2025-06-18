@@ -1,11 +1,4 @@
-import {
-  Github,
-  Linkedin,
-  LucideGitBranchPlus,
-  Mail,
-  MapPin,
-  Send,
-} from "lucide-react";
+import { Github, Linkedin, Mail, MapPin, Send } from "lucide-react";
 import React from "react";
 import {
   Card,
