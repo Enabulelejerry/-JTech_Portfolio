@@ -2,8 +2,6 @@ import { Button } from "@/components/ui/button";
 import {
   Code,
   Download,
-  Github,
-  Heart,
   Linkedin,
   LucideGitBranchPlus,
   Mail,
