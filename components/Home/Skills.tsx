@@ -1,5 +1,5 @@
 import { Badge } from "@/components/ui/badge";
-import { Code, Database, Server, Smartphone, Star, Zap } from "lucide-react";
+import { Code, Database, Server, Smartphone, Zap } from "lucide-react";
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 

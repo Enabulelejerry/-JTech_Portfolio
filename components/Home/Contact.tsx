@@ -85,7 +85,7 @@ function Contact() {
             <CardHeader>
               <CardTitle className="text-white">Send me a message</CardTitle>
               <CardDescription className="text-blue-100">
-                Fill out the form below and I'll get back to you within 24
+                Fill out the form below and I&#39;ll get back to you within 24
                 hours.
               </CardDescription>
             </CardHeader>
