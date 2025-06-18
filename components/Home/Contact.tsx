@@ -25,23 +25,23 @@ function Contact() {
             <span className="font-semibold">Get In Touch</span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Let's Create Something Amazing Together
+            Let&#39;s Create Something Amazing Together
           </h2>
           <p className="text-blue-100 max-w-2xl mx-auto">
-            I'm always interested in new opportunities and interesting projects.
-            Let's discuss how we can work together!
+            I&#39;m always interested in new opportunities and interesting
+            projects. Let&#39;s discuss how we can work together!
           </p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Let's start a conversation
+              Let&#39;s start a conversation
             </h3>
             <p className="text-blue-100">
               Whether you have a project in mind, want to collaborate, or just
-              want to say hello, I'd love to hear from you. Drop me a message
-              and I'll get back to you as soon as possible.
+              want to say hello, I&#39;d love to hear from you. Drop me a
+              message and I&#39;ll get back to you as soon as possible.
             </p>
 
             <div className="space-y-4">

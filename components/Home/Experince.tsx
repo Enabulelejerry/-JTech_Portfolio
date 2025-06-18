@@ -21,7 +21,8 @@ function Experince() {
             My Professional Journey
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            The companies I've had the pleasure to work with and grow alongside
+            The companies I&#39;ve had the pleasure to work with and grow
+            alongside
           </p>
         </div>
 
@@ -109,7 +110,7 @@ function Experince() {
                   Implemented secure authentication, booking logic, and
                   real-time features.
                 </li>
-                <li>Collaborated with design team to implement API's</li>
+                <li>Collaborated with design team to implement API&#39;s</li>
                 <li>
                   Integrated third-party APIs and payment processing systems
                 </li>

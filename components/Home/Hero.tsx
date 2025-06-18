@@ -6,7 +6,6 @@ import {
   LucideGitBranchPlus,
   Mail,
   Star,
-  Zap,
 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -26,13 +25,14 @@ function Hero() {
                 </span>
               </div>
               <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-gray-900">
-                Hi, I'm <span className="text-blue-600">Enabulele Jerry</span>
+                Hi, I&#39;m{" "}
+                <span className="text-blue-600">Enabulele Jerry</span>
               </h1>
               <h2 className="text-xl md:text-2xl text-purple-600 font-semibold">
                 Full Stack Web Developer & Software Engineer
               </h2>
               <p className="text-lg text-gray-600 max-w-2xl">
-                I'm a passionate full stack developer with 5+ years of
+                I&#39;m a passionate full stack developer with 5+ years of
                 experience building scalable web applications. I specialize in
                 Laravel, React, Next.js Next.js Server Actions, and cloud
                 technologies, creating digital solutions that make a difference.
